@@ -50,7 +50,8 @@
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/mirudeesh
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" />
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" />
+
 
 -----
 
