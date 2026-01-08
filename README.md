@@ -50,7 +50,7 @@
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/mirudeesh
-<img src="https://skillicons.dev/icons?i=python,js,java,cpp,c,html,css,react,nodejs&theme=light" />
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" />
 
 -----
 
