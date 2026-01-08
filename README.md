@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Mirudeesh
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=000000&center=false&vCenter=true&width=450&lines=Developer;Programmer;Code+%7C+Build+%7C+Repeat" />
 
 ## 💻 About Me
 - Developer focused on building clean, efficient, and scalable solutions  
