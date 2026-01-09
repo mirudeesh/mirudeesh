@@ -1,6 +1,8 @@
 ## 👋 Hi, I'm Mirudeesh
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=000000&center=false&vCenter=true&width=450&lines=Developer;Programmer;Code+%7C+Build+%7C+Repeat" />
-<p align="center">
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=000000&vCenter=true&width=300&lines=Developer;Programmer" />
+</p>
+
   <img src="https://media1.tenor.com/m/o656qFKDzeUAAAAd/rick-astley-never-gonna-give-you-up.gif" width="300" />
 </p>
 
