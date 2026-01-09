@@ -55,9 +55,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=000000&center=true&vCenter=true&width=480&lines=Software+Developer;Clean+Code+Focused;Learning+and+Building" />
 </p> 
 <p align="center">
-  <img src="https://tenor.com/search/computer-programmer-meme-gifs" width="300" />
+  <img src="https://media1.tenor.com/m/o656qFKDzeUAAAAd/rick-astley-never-gonna-give-you-up.gif" width="300" />
 </p>
-
 
 <img src="https://skillicons.dev/icons?i=python,js,java,cpp,c,html,css,react,nodejs&theme=light" />
 
