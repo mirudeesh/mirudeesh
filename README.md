@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Mirudeesh
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=000000&center=false&vCenter=true&width=450&lines=Developer;Programmer;Code+%7C+Build+%7C+Repeat" />
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
 
 ## 💻 About Me
 - Developer focused on building clean, efficient, and scalable solutions  
@@ -50,7 +51,7 @@
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/mirudeesh
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
+
 
 <img src="https://skillicons.dev/icons?i=python,js,java,cpp,c,html,css,react,nodejs&theme=light" />
 
