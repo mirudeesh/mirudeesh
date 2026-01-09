@@ -55,6 +55,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=000000&center=true&vCenter=true&width=480&lines=Software+Developer;Clean+Code+Focused;Learning+and+Building" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="300" />
+</p>
 
 <img src="https://skillicons.dev/icons?i=python,js,java,cpp,c,html,css,react,nodejs&theme=light" />
 
